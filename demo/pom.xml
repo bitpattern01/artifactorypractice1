@@ -4,7 +4,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
-	<version>8.0.2</version>
+	<version>9.0.2</version>
 	<packaging>jar</packaging>
 
 	<name>demo</name>
@@ -78,11 +78,11 @@
     </snapshotRepository>
 </distributionManagement>
 
- <!--    <scm>
+   <scm>
 		<url>https://github.com/bitpattern01/artifactorypractice1</url>
 		<connection>scm:git:git://github.com/bitpattern01/artifactorypractice1.git</connection>
 		<developerConnection>scm:git:git@github.com:bitpattern01/artifactorypractice1.git</developerConnection>
 	  <tag>t1</tag>
-  </scm> -->
+  </scm> 
 
 </project>
